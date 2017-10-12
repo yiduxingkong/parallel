@@ -3,6 +3,6 @@
 #include<stdio.h>
 int main()
 {
-	print("I love git.");
+	print("I love NOOOOOOOOOOOOOgit.");
 	return 0;
 }
